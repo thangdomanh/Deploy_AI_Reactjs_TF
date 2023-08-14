@@ -7,3 +7,5 @@
 6. Make detections and cleanup - DONE
 7. Create drawing function and labelmap - DONE
 8. Draw to the canvas using requestAnimationFrame - DONE
+# Instructions
+Youtube: https://youtu.be/kXauXm0dBmc
